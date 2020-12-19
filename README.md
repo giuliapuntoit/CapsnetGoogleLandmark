@@ -4,7 +4,7 @@ Small work to perform a comparison between CapsNet and traditional Convolutional
 
 ## Motivation
 
-This project was developed for the AIML (Artificial Intelligence and Machine Learning) course in Politecnico di Torino. 
+This project was developed for the AIML (Artificial Intelligence and Machine Learning) course in Politecnico di Torino in the academic year 2019/2020. 
 
 ## Description
 
