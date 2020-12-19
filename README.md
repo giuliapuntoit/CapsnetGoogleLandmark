@@ -2,9 +2,16 @@
 
 Small work to perform a comparison between CapsNet and traditional Convolutional Neural Networks on the Google Landmark Recognition Challenge.
 
+## Motivation
+
+This project was developed for the AIML (Artificial Intelligence and Machine Learning) course in Politecnico di Torino. 
+
 ## Description
 
-The detailed description of this project can be found in [comparison]().
+* Code of Capsnet for the Google Landmark Recognition Challenge is in [capsnet](https://github.com/giuliapuntoit/CapsnetGoogleLandmark/blob/main/project_CapsNet.ipynb);
+* Code of CNNs for the Google Landmark Recognition Challenge is in [cnn](https://github.com/giuliapuntoit/CapsnetGoogleLandmark/blob/main/project_VGG16.ipynb).
+
+A detailed description of this project can be found in [comparison](https://github.com/giuliapuntoit/CapsnetGoogleLandmark/blob/main/AIML_projectfinal.pdf).
 
 ## Authors
 
@@ -18,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This information can be found inside [comparison]().
+This information can be found inside [comparison](https://github.com/giuliapuntoit/CapsnetGoogleLandmark/blob/main/AIML_projectfinal.pdf).
