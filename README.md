@@ -17,7 +17,7 @@ A detailed description of this project can be found in [comparison](https://gith
 
 * **Giulia Milan** - *Initial work* - [giuliapuntoit](https://github.com/giuliapuntoit)
 * **Enrico Postolov** - *Initial work* - [enripostolov](https://github.com/enripostolov)
-* **Davide Taddei** - *Initial work*
+* **Davide Taddei** - *Initial work* - [davidetadz](https://github.com/davidetadz)
 
 ## License
 
